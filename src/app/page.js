@@ -15,7 +15,7 @@ const LinkButton = ({label, link}) => (
 export default function Home() {
     return (
         <main className="h-screen overflow-y-hidden">
-            <div className="flex max-h-screen flex-col gap-6 items-center mx-auto mt-12 w-2/3 overflow-y-hidden">
+            <div className="flex max-h-screen flex-col gap-6 items-center font-roboto mx-auto mt-12 w-2/3 overflow-y-hidden">
                 <div className="flex text-center text-white text-4xl">
                     <h1>{links.header}</h1>
                 </div>
@@ -29,7 +29,7 @@ export default function Home() {
                 </div>
                 <div className="h-1 w-full bg-white"></div>
                 <div>
-                    <Link href="https://www.github.com/taylorhoyt" target="_blank">
+                    <Link href="https://github.com/taylorhoyt/links-site" target="_blank">
                         <Image src={githubIcon}
                                alt="github"
                                className="m-auto w-1/2"
