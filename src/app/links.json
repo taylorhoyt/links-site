@@ -1,20 +1,16 @@
 {
-  "header": "Welcome to my link page",
+  "header": "Muscle Contraction Monitoring System",
   "data": [
     {
-      "label": "Taylor's page",
-      "link": "https://taylorhoyt.vercel.app/"
+      "label": "Companion App GitHub",
+      "link": "https://github.com/taylorhoyt/electron-companion-app"
     },
     {
-      "label": "Google",
-      "link": "https://www.google.com/"
+      "label": "Database API GitHub",
+      "link": "https://github.com/taylorhoyt/express-sessions-api"
     },
     {
-      "label": "This is a really long button",
-      "link": "https://www.google.com/"
-    },
-    {
-      "label": "This is an huge big massive even really long button",
+      "label": "Add more things!",
       "link": "https://www.google.com/"
     }
   ]
