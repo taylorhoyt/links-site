@@ -1,0 +1,21 @@
+{
+  "header": "Welcome to my link page",
+  "data": [
+    {
+      "label": "Taylor's page",
+      "link": "https://taylorhoyt.vercel.app/"
+    },
+    {
+      "label": "Google",
+      "link": "https://www.google.com/"
+    },
+    {
+      "label": "This is a really long button",
+      "link": "https://www.google.com/"
+    },
+    {
+      "label": "This is an huge big massive even really long button",
+      "link": "https://www.google.com/"
+    }
+  ]
+}
