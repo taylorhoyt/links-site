@@ -6,12 +6,24 @@
       "link": "https://github.com/taylorhoyt/electron-companion-app"
     },
     {
-      "label": "Database API GitHub",
+      "label": "REST API GitHub",
       "link": "https://github.com/taylorhoyt/express-sessions-api"
     },
     {
+      "label": "REST API Documentation",
+      "link": "https://uark-my.sharepoint.com/:b:/g/personal/tchoyt_uark_edu/EeyEDmVsmhRMsjTIIgmBgjkBrlaewFT89HMLcstsBmIItA?e=gcGhFa"
+    },
+    {
+      "label": "Arduino Documentation",
+      "link": "https://uark-my.sharepoint.com/:b:/g/personal/tchoyt_uark_edu/EdAaCQFX-59PgyRfncKeW1sB5mVVCiSK0jRo4mEwdu8LNw?e=hSahwY"
+    },
+    {
       "label": "Final Presentation",
-      "link": "https://uark-my.sharepoint.com/:p:/g/personal/tchoyt_uark_edu/EXFOyc8VkCZEob3BCkz5FRkBFm8TuCNNrn2MwS3JaU_BbQ?e=LgbF6n"
-    }
+      "link": "https://uark-my.sharepoint.com/:b:/g/personal/tchoyt_uark_edu/ES30ov1dpVhCvsIj33XX8SsBhMybX7c6Q9BuScYScNbcBw?e=qKsXdy"
+    },
+    {
+      "label": "Final Report",
+      "link": "https://uark-my.sharepoint.com/:b:/g/personal/tchoyt_uark_edu/Ea4_oaUlARdCk2DD0q9xAw0B4ICkRzwcl5rpEOviZgpCVg?e=z6sVw4"
+    },
   ]
 }
